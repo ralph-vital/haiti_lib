@@ -16,6 +16,8 @@ with source_data as (
     select 2 as id
     union
     select 3 as id
+    union
+    select 4 as id
 
 )
 
